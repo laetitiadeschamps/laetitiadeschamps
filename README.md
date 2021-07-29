@@ -27,6 +27,7 @@ Lors de la formation, j'ai pratiqué et développé mes compétences grâce à d
     - PHP 7 dont POO, MVC, JWT Web Token
     - Symfony 5 dont EasyAdmin, Voters, PHPUnit,  Webpack, Consommation d'API publiques avec HttpClient, twig (filtres, fonctions ...), Inky, Mailer, Services, Commandes custom, gestion des droits
     - Lumen : création d'API REST avec relations de tous types, communication avec un front en Javascript ou avec des vues en Lumen, utilisation de Blade
+    - Sockets PHP avec Ratchet
 - Front
     - Javascript Vanilla : fonctions simples et complexes, AJAX pour communication avec API REST ou API publique
     - HTML5, CSS3, dont le framework CSS Boostrap 5
