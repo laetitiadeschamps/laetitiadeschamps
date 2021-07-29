@@ -24,25 +24,19 @@ Lors de la formation, j'ai pratiqué et développé mes compétences grâce à d
 [![forthebadge](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](http://forthebadge.com)
 ### MVP
 - Back 
-    - PHP 7
-        -  POO, MVC
-        - JWT Web Token
-    - Symfony 5
-        - EasyAdmin
-        - Voters
-        - PHPUnit
-        - Webpack
-        - Consommation d'API publiques avec HttpClient
-    - Lumen : création d'API REST
-
+    - PHP 7 dont POO, MVC, JWT Web Token
+    - Symfony 5 dont EasyAdmin, Voters, PHPUnit,  Webpack, Consommation d'API publiques avec HttpClient, twig (filtres, fonctions ...), Inky, Mailer, Services, Commandes custom, gestion des droits
+    - Lumen : création d'API REST avec relations de tous types, communication avec un front en Javascript ou avec des vues en Lumen, utilisation de Blade
 - Front
-    - Javascript Vanilla
-        - AJAX pour communication avec API REST ou API publique
-    - HTML5, CSS3
-        - Boostrap 5
+    - Javascript Vanilla : fonctions simples et complexes, AJAX pour communication avec API REST ou API publique
+    - HTML5, CSS3, dont le framework CSS Boostrap 5
 
 
 ### V2
+[![forthebadge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white))](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](http://forthebadge.com)
 - Dans un futur proche, je voudrais pouvoir : me former sur React/Redux, approfondir mes connaissances sur Docker, RabbitMQ et node.
 
 
